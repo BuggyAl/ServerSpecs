@@ -1,0 +1,6 @@
+name: MinehutCPU
+version: '1.0'
+main: me.buggyal.minehutcpu.MinehutCPU
+api-version: '1.20'
+authors: [BuggyAl]
+description: Scan minecraft servers for their server specs. (Meant for Minehut)

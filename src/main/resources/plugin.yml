@@ -1,6 +1,6 @@
-name: MinehutCPU
+name: ServerSpecs
 version: '1.0'
-main: me.buggyal.minehutcpu.MinehutCPU
+main: me.buggyal.serverspecs.ServerSpecs
 api-version: '1.20'
 authors: [BuggyAl]
-description: Scan minecraft servers for their server specs. (Meant for Minehut)
+description: Attempts to scan a Minecraft server for the hardware stats. Useful for server hosts like Minehut that don't specifically state the server hardware.

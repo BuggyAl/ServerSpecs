@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.buggyal</groupId>
-    <artifactId>MinehutCPU</artifactId>
+    <artifactId>ServerSpecs</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>MinehutCPU</name>
+    <name>ServerSpecs</name>
 
-    <description>Scan minecraft servers for their hardware specs.</description>
+    <description>Attempts to scan a Minecraft server for the hardware stats. Useful for server hosts like Minehut that don't specifically state the server hardware.</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

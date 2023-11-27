@@ -1,4 +1,4 @@
-package me.buggyal.minehutcpu;
+package me.buggyal.serverspecs;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import oshi.SystemInfo;
@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public final class MinehutCPU extends JavaPlugin {
+public final class ServerSpecs extends JavaPlugin {
 
     @Override
     public void onEnable() {
